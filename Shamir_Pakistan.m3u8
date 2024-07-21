@@ -1,0 +1,82 @@
+#EXTM3U
+#EXTINF:0,Bol News
+#EXTGRP:News
+https://tapmadlive.akamaized.net/tapmadold/bolnews.smil/chunklist_w748612947_b1248000_slENG.m3u8
+#EXTINF:0,Geo News
+#EXTGRP:News
+https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/GEONEWS/Backup1/chunks.m3u8
+#EXTINF:0,Dunya News
+#EXTGRP:News
+https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w28760067_b950272.m3u8
+#EXTINF:0,Samma News
+#EXTGRP:News
+https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w824907472_b1248000_slENG.m3u8
+#EXTINF:0,92 News
+#EXTGRP:News
+https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w1307679272_b1248000_slENG.m3u8
+#EXTINF:0,Express News
+#EXTGRP:News
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/expressnews-abr/live/155H/chunks.m3u8?nimblesessionid=59728426&amp;wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgOToyMTo0MCBQTSZoYXNoX3ZhbHVlPWRLT0hweHZORXdmUGpHdjV6Z3J0VWc9PSZ2YWxpZG1pbnV0ZXM9MQ==
+#EXTINF:0,Suno News
+#EXTGRP:News
+https://cdn.bmstudiopk.com/sunotv/live/chunklist_w1778629771.m3u8
+#EXTINF:0,Hum News
+#EXTGRP:News
+https://stream1.vidly.tv:8443/live/humnews/chunks.m3u8?nimblesessionid=7301134&amp;wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgOToxNzoyNCBQTSZoYXNoX3ZhbHVlPXhFSHpiTjFPc24yZER0anBJQjdCV2c9PSZ2YWxpZG1pbnV0ZXM9MjAwMDAwMDAwMDAwMA==
+#EXTINF:0,ARY News
+#EXTGRP:News
+https://mhdtvplay.com/aryzap/stream.m3u8?chunks=b5f6d5acca10492aef99aa866aceb86d9ed2ea9a52ca0468192cac36bd1fde641fa06587c3ed0e6150076048b27aa8d637f86d2d809022652416ae457b2088cd17adcedb26e521f82512982d2d0c59011674e69cc641c9e411c74488925802746129d2b8ce0d0c9a4ccba6aeddd9b9d239b5b6d582cb2338bfe216693af4cb8a02e650b6a8b4f992e7c05a2909086f320e44c2ed9b5527b40b0aa747736da1ecbdc5d9a61cf1692cb9125af4e7f54b0c0ec83da94319c016ccaa73a1a3a03637d27443d16df62241e68944e300ceb24e
+#EXTINF:0,Express Entertainment
+#EXTGRP:Drama
+https://media2.streambrothers.com:1936/8160/8160/playlist.m3u8
+#EXTINF:0,Geo Tv
+#EXTGRP:Drama
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks.m3u8
+#EXTINF:0,Hum Tv HD (720p)
+#EXTGRP:Drama
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+#EXTINF:0,ARY Digital
+#EXTGRP:Drama
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjQgNzozODoyNCBBTSZoYXNoX3ZhbHVlPVlQT0UvQTBxMENENEM4eDNXbVNuNkE9PSZ2YWxpZG1pbnV0ZXM9MQ==
+#EXTINF:0,Green Entertainment
+#EXTGRP:Drama
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjQgMzowMjoxMyBQTSZoYXNoX3ZhbHVlPXdKamM1cmNJZExLTWR2ZWJUVkxLTmc9PSZ2YWxpZG1pbnV0ZXM9MQ==
+#EXTINF:0,Apna
+#EXTGRP:Drama
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Apna-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjQgMjo0OTo0OSBQTSZoYXNoX3ZhbHVlPWkrNElWaDkvWmF0WlpDMEczTWpINnc9PSZ2YWxpZG1pbnV0ZXM9MQ==
+#EXTINF:0,URDU 1
+#EXTGRP:Drama
+https://cdn12isb.tamashaweb.com:8087/jazzauth/urdu-1-abr/live/158-4H/chunks.m3u8?nimblesessionid=106205252&amp;wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgMzoyNjo1NiBQTSZoYXNoX3ZhbHVlPURpYzMyRXl4dGpZYytxTEtyS1QzSmc9PSZ2YWxpZG1pbnV0ZXM9MQ==
+#EXTINF:0,Hum Sitaray
+#EXTGRP:Drama
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/HumSitaray-abr/live/vsat-107H/chunks.m3u8?nimblesessionid=68633063&amp;wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjQgMjo1NTowNCBQTSZoYXNoX3ZhbHVlPTFEa1RxWS9oekFZOXpxKzdIWWJpL1E9PSZ2YWxpZG1pbnV0ZXM9MQ==
+#EXTINF:0,Aan Tv
+#EXTGRP:Drama
+https://cdn05khi.tamashaweb.com:8087/jazzauth/AAN-TV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjQgMjo1OTozMiBQTSZoYXNoX3ZhbHVlPUZjeFVGT2h5S1dmNzB0cjc0Tko1Q3c9PSZ2YWxpZG1pbnV0ZXM9MQ==
+#EXTINF:0,Cartoon Network
+#EXTGRP:Kidz
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/cartoonnetwork-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDI0IDM6MTE6MzkgQU0maGFzaF92YWx1ZT1BeXhpMU5PR1c1WFdvb21YcDRpZWp3PT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:0,MiniMax
+#EXTGRP:Kidz
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Minimax-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjQgMzowNDoyNiBQTSZoYXNoX3ZhbHVlPW42Q01uMzlKZnpSYVpIVnlUTDNHSmc9PSZ2YWxpZG1pbnV0ZXM9MQ==
+#EXTINF:0,QToons
+#EXTGRP:Kidz
+https://janya-qtoonz.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/fe1720c6-2efd-48ad-b61f-a3edaed6130b/8c28b09c-071f-4a36-b8f6-99b03f12b123/2.m3u8
+#EXTINF:0,Kidoodle Tv
+#EXTGRP:Kidz
+https://kidoodletv-kdtv-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:0,Tensports
+#EXTGRP:Sports
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgMzo0MDo0MiBQTSZoYXNoX3ZhbHVlPTA2RzZCUVd0Wm1ObXFValJIelcxN3c9PSZ2YWxpZG1pbnV0ZXM9MQ==
+#EXTINF:0,Geo Super
+#EXTGRP:Sports
+https://nayatvstream1.nayatel.com/OTT/channel17hd.stream/chunks.m3u8?nimblesessionid=27633776&amp;wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgNDoxNTozOSBQTSZoYXNoX3ZhbHVlPUZ4WHNZVkJ4cnlGeEtwOWgrOGtTTGc9PSZ2YWxpZG1pbnV0ZXM9MyZpZD1zaGFtaXIxOTU2
+#EXTINF:0,Fast Sports
+#EXTGRP:Sports
+https://5cde0b27567d8.streamlock.net:3030/OTT/channel106hd.stream/chunklist_w393487769.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgNDoxNjoxMiBQTSZoYXNoX3ZhbHVlPWFDYnJQWGVhajlQTE5GejJ0aElwTWc9PSZ2YWxpZG1pbnV0ZXM9MyZpZD1zaGFtaXIxOTU2
+#EXTINF:0,Discover Pakistan
+#EXTGRP:Entertainment
+https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream1/chunks.m3u8?nimblesessionid=109599081
+#EXTINF:0,inplus
+#EXTGRP:Entertainment
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Inplus-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDI0IDM6MTk6MzMgQU0maGFzaF92YWx1ZT1TUWFpbVJWcmtrbU4vK2txeHFmUjlBPT0mdmFsaWRtaW51dGVzPTE=
